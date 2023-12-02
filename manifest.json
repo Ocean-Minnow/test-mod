@@ -1,11 +1,11 @@
 {
-	"version": "1.0.0",
+	"version": "0.2.0",
 	"id": "average.tayyibtest",
 	"name": "test tayyib",
 	"description": "test tayyib",
 	"authors": ["Average"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.2.2",
+	"frameworkVersion": "2.33.6",
 	"loadAfter": ["KevinRudd.FreelancerVariations", "Minnow.FreelancerOutfits"],
 	"localisationOverrides": {
 		"004B8C5124A49543": {
@@ -13,5 +13,6 @@
 				"671377108": "Desperate Traveller"
 			}
 		}
-	}
+	},
+	"updateCheck": "https://github.com/Ocean-Minnow/test-mod/releases/latest/download/updates.json"
 }
