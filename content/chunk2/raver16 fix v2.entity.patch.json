@@ -1,6 +1,0 @@
-{
-	"tempHash": "000DA1E255A3DA4C",
-	"tbluHash": "0009C446C0395E5A",
-	"patch": [{ "AddExtraFactoryDependency": "00954F2A467328E9" }],
-	"patchVersion": 6
-}
