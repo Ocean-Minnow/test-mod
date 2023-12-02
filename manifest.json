@@ -6,5 +6,12 @@
 	"authors": ["Average"],
 	"contentFolders": ["content"],
 	"frameworkVersion": "2.2.2",
-	"loadAfter": ["KevinRudd.FreelancerVariations", "Minnow.FreelancerOutfits"]
+	"loadAfter": ["KevinRudd.FreelancerVariations", "Minnow.FreelancerOutfits"],
+	"localisationOverrides": {
+		"004B8C5124A49543": {
+			"english": {
+				"671377108": "Desperate Traveller"
+			}
+		}
+	}
 }
