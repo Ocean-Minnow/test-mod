@@ -6,4 +6,4 @@ test tayyib
 
 ---
 
-`average.tayyibtest` v0.2.0, by Average. This README was automatically generated from the mod's manifest.
+`average.tayyibtest` v1.0.0, by Average. This README was automatically generated from the mod's manifest.
